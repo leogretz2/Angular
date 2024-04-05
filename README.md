@@ -1,0 +1,1 @@
+Main command in Angular is ng, but still uses npm to manage packages -> npm install, package.json, package-lock.json
